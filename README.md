@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nibily3505
 - 👀 I’m interested in Design,Tecnology and Funcionality
-- 🌱 I’m currently learning python and kotlin
+- 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
